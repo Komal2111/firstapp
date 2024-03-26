@@ -40,7 +40,7 @@ function App() {
 return (
   <div className="App">
     <div className="Container">
-      <h2 className='center'>BMI Calcuator</h2>
+      <h2 className='center'>BMI Calcultor</h2>
       <form onSubmit={CalculateBmi}>
         <div>
           <label>Weight (ibs)</label>
